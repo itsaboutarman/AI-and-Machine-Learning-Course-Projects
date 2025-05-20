@@ -4,7 +4,7 @@ This repository contains a collection of academic projects developed for the Art
 
 ## 🧠 Projects Overview
 
-### 📦 [Project01 - Intelligent Agent and PEAS Analysis](./Project06)
+### 📦 [Project01 - Intelligent Agent and PEAS Analysis](./Project01)
 Analyzes the concept of intelligent agents and environments using the example of a mail delivery drone. Includes modeling of the PEAS (Performance measure, Environment, Actuators, Sensors) framework.
 
 ### 🔍 [Project02 - Search Algorithms](./Project02)
